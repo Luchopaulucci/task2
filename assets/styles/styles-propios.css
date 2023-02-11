@@ -1,0 +1,85 @@
+body{
+    background-color: #EAD2AC;
+    font-family: sans-serif;
+}
+
+.banner{
+    position: static;
+    max-width:100%;
+    box-shadow: -5px 20px 40px gray;
+    border-radius: 10px;
+}
+
+.logo{
+    width: 20%;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+h1{
+    color: #2C1654;
+    position: absolute;
+    margin-top: -7%;
+    margin-left:5%;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+h2{
+    color: #2C1654;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-top: 5%;
+    font-family: cursive;
+}
+
+h3{
+    color: #2C1654;
+    display: inline-block;
+    position: absolute;
+    margin-left: 20%;
+    font-family: cursive;
+}
+
+main{
+    margin-top: 5%;
+    padding-bottom: 150px;
+}
+
+nav{
+    display: grid;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+p{
+    display: inline-grid;
+    position: relative;
+    margin-left: 20%;
+    margin-top: 4%;
+    font-family: Georgia, serif;
+}
+
+.contacto{
+    display: inline-block;
+    margin-top: 1%;
+}
+
+.link{
+    color: black;
+    padding: 15px 10px;
+    background-color: #3D315B;
+    border-radius: 5%;
+}
+
+.link:hover{
+    background-color: #444B6E;
+    transform: scale3d(1.2, 1.2, 0.2);
+    transition-duration: 0.5s;
+    box-shadow: 2px 2px 5px black;   
+}
+
+

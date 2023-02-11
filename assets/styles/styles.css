@@ -1,0 +1,56 @@
+.banner{
+    position: static;
+    max-width:70%;
+}
+
+.logo{
+    width: 15%;
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -8%;
+    
+
+}
+
+nav{
+    display: grid;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+
+h1{
+    position: absolute;
+    margin-top: -28%;
+    margin-left: 17%;
+}
+
+h2{
+    background-color: black;
+    max-width: 70%;
+    color: white;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+main{
+    margin-top: 5%;
+}
+
+h3{
+    display: inline-block;
+    position: absolute;
+    margin-left: 30%;
+}
+
+p{
+    display: inline-grid;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 4%;
+}
+
+.contacto{
+    margin-top: 1%;
+}
+
