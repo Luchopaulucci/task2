@@ -1,6 +1,6 @@
 .banner{
-    position: static;
-    max-width:70%;
+    height:400px;
+    width: 70%;
     margin-left: 15%;
 }
 
@@ -49,9 +49,11 @@ p{
     position: relative;
     margin-left: 30%;
     margin-top: 4%;
+    max-width: 50%;
 }
 
 .contacto{
     margin-top: 1%;
+    display: inline-block;
 }
 
